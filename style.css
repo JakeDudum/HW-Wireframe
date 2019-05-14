@@ -27,5 +27,14 @@ div.section {
 div.article {
     color: #ebebeb;
     background: #777;
-    text-align: center;
+    padding: 10px;
+    margin: 10px;
+}
+
+div.article-content {
+    color: #777;
+    background: #ebebeb;
+    padding: 10px;
+    margin: 10px;
+
 }
