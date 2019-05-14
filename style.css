@@ -19,6 +19,13 @@ div.section {
     background: #ebebeb;
     text-align: center;
     width: 495px;
+    padding: 40px 10px 10px 10px;
     margin: 10px;
     float: left;
+}
+
+div.article {
+    color: #ebebeb;
+    background: #777;
+    text-align: center;
 }
