@@ -5,3 +5,8 @@ body {
     width: 960px;
     font-size: 18px;
 }
+
+div.text-center {
+    background: #ebebeb;
+    text-align: center;
+}
