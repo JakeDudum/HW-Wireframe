@@ -13,3 +13,9 @@ div.text-center {
     padding: 40px;
     margin: 10px;
 }
+
+div.section {
+    background: #ebebeb;
+    text-align: center;
+    width: 495px;
+}
