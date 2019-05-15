@@ -14,7 +14,7 @@ body {
 #header, #nav, #footer {
     background: #ebebeb;
     text-align: center;
-    padding: 35px;
+    padding: 35px 100px 35px 0px;
     margin: 10px 0px;
     clear: both;
 }
@@ -24,7 +24,7 @@ body {
     text-align: center;
     width: 495px;
     padding: 40px 10px 10px 10px;
-    margin: 10px 10px 20px 0px;
+    margin: 10px 20px 20px 0px;
     float: left;
 }
 
@@ -43,7 +43,8 @@ body {
 }
 
 #htags {
-    margin-top: 15px
+    margin-top: 15px;
+    font-weight: bold;
 }
 
 #aside {
@@ -51,8 +52,8 @@ body {
     background: #ebebeb;
     text-align: center;
     float: left;
-    width: 455px;
-    height: 292px;
+    width: 445px;
+    height: 275px;
     padding: 40px;
     margin: 10px 0px;
 }
