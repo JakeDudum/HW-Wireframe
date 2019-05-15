@@ -1,3 +1,7 @@
+* {
+    box-sizing: border-box;
+}
+
 body {
     font-family: Arial, Helvetica Neue, Helvetica, sans-serif;
     color: #777;
@@ -11,7 +15,7 @@ body {
     background: #ebebeb;
     text-align: center;
     padding: 35px;
-    margin: 10px;
+    margin: 10px 0px;
     clear: both;
 }
 
@@ -20,7 +24,7 @@ body {
     text-align: center;
     width: 495px;
     padding: 40px 10px 10px 10px;
-    margin: 10px 10px 20px 10px;
+    margin: 10px 10px 20px 0px;
     float: left;
 }
 
@@ -47,8 +51,8 @@ body {
     background: #ebebeb;
     text-align: center;
     float: left;
-    width: 385px;
-    height: 242px;
-    padding: 40px 10px 10px 10px;
-    margin: 10px;
+    width: 455px;
+    height: 292px;
+    padding: 40px;
+    margin: 10px 0px;
 }
